@@ -19,7 +19,7 @@
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-attention! if you have any question, I am anticipant receiving your letter, please contact the email:gaitxh@foxmail.com.
+attention! if you have any question, I am anticipant receiving your letter, please contact the email:pyli@cqupt.edu.cn or gaitxh@foxmail.com.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
