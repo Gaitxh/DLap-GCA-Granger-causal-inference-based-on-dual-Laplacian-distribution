@@ -12,6 +12,8 @@
 "RDiffNet_Bootstrapping.m" is based on a randomization method for calculating metrics. Each time, it requires inputs of two network pairs. Due to its random nature, there is a certain degree of uncertainty in the metrics.
 
   On the other hand, "RDiffNet_Stableversion.m" matches any two network pairs from two categories and calculates the corresponding results by iterating through all possible combinations. This version of the code provides greater stability.
+  
+  There is no doubt that the RDiffNet indicator is based on the paper "SimiNet: a novel method for quantifying brain network similarity", if you want to use it, you need to cite the relevant literature,
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -26,5 +28,7 @@ attention! if you have any question, I am anticipant receiving your letter, plea
 2023/070/01 00：13
 
   Not only that, but we've also developed a robust approach to EEG data preprocessing," In "https://github.com/Gaitxh/FCCJIA-An-adaptive-joint-CCA-ICA-method-for-ocular-artifact-removal provides a fast and robust eye electric artifact removal techniques.
+  
   In the "https://github.com/Gaitxh/ATICA-An-Adaptive-EOG-Removal-Method-Based-on-Local-Density-" is also a kind of robust eye electric artifact removal techniques, It also provides a threshold calculation strategy. 
+  
   Furthermore, we have developed a causal network estimation algorithm based on the Student's t-distribution, which has been applied to emotion research. You can refer to the following link for more details and access the corresponding code support: https://github.com/Gaitxh/GS-GCA-A-novel-robust-Student-s-t-based-Granger-causality-for-EEG-based-brain-network-analysis. I hope these works can help you.
