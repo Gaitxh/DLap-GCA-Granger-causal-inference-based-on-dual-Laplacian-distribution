@@ -25,7 +25,7 @@ attention! if you have any question, I am anticipant receiving your letter, plea
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-2023/070/01 00：13
+2023/07/01 00：13
 
   Not only that, but we've also developed a robust approach to EEG data preprocessing," In "https://github.com/Gaitxh/FCCJIA-An-adaptive-joint-CCA-ICA-method-for-ocular-artifact-removal provides a fast and robust eye electric artifact removal techniques.
   
