@@ -21,7 +21,7 @@ end
 end
 
 function ret = sparse_Grangercausality(ret)
-[PR,~] = cca_findsignificance(ret,0.05,2);
+[PR,~] = cca_findsignificance(ret,0.05,1);
 GC = ret.gc;
 GC2 = GC.*PR;
 ret.PR = PR;
